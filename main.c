@@ -108,9 +108,7 @@ state2=true;
        Ms=HAL_GetTick();
        
        buton_moves();
-//  HAL_GPIO_TogglePin(GPIOC,GPIO_PIN_6);
-//   HAL_GPIO_TogglePin(GPIOC,GPIO_PIN_8);
-    
+
     
   }
   /* USER CODE END 3 */
