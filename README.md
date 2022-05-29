@@ -9,3 +9,4 @@ Uygalamada 50mslik debounce süresi kullanışmış olup 2 buton interruptla kul
 
 2.butonumuz ise yine 50mslik debounce ile 3.bir ledi toggle etmektedir.
 
+Kaynakların kullanımının verimsiz olmasını söylemenizden ötürü systick ile yapılmıştır iyi çalışmalar.
